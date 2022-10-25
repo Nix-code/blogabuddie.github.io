@@ -9,16 +9,7 @@
       <link>https://nix-code.github.io/blogabuddie.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Oct 2022 18:52:01 +0530</lastBuildDate><atom:link href="https://nix-code.github.io/blogabuddie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post</title>
-      <link>https://nix-code.github.io/blogabuddie.github.io/posts/post/</link>
-      <pubDate>Tue, 25 Oct 2022 18:52:01 +0530</pubDate>
-      
-      <guid>https://nix-code.github.io/blogabuddie.github.io/posts/post/</guid>
-      <description>This is good post</description>
-    </item>
-    
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nix-code.github.io/blogabuddie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C programming Roadmap</title>
       <link>https://nix-code.github.io/blogabuddie.github.io/posts/c_programming/</link>

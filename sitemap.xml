@@ -2,33 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blogabuddie.github.io/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/</loc>
+    <lastmod>2022-10-25T18:52:01+05:30</lastmod>
+  </url><url>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/posts/post/</loc>
+    <lastmod>2022-10-25T18:52:01+05:30</lastmod>
+  </url><url>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/posts/</loc>
+    <lastmod>2022-10-25T18:52:01+05:30</lastmod>
+  </url><url>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/posts/c_programming/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blogabuddie.github.io/posts/c_programming/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/posts/data_science/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blogabuddie.github.io/posts/data_science/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/tags/privacy/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blogabuddie.github.io/posts/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/tags/shortcodes/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blogabuddie.github.io/tags/privacy/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/tags/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>blogabuddie.github.io/tags/shortcodes/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/archives/</loc>
   </url><url>
-    <loc>blogabuddie.github.io/tags/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/categories/</loc>
   </url><url>
-    <loc>blogabuddie.github.io/archives/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/search/</loc>
   </url><url>
-    <loc>blogabuddie.github.io/categories/</loc>
-  </url><url>
-    <loc>blogabuddie.github.io/search/</loc>
-  </url><url>
-    <loc>blogabuddie.github.io/series/</loc>
+    <loc>https://nix-code.github.io/blogabuddie.github.io/series/</loc>
   </url>
 </urlset>

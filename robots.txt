@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: blogabuddie.github.io/sitemap.xml
+Sitemap: https://nix-code.github.io/blogabuddie.github.io/sitemap.xml

@@ -2,29 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ask Buddie&#39;s Blog</title>
-    <link>blogabuddie.github.io/</link>
+    <link>https://nix-code.github.io/blogabuddie.github.io/</link>
     <description>Recent content on Ask Buddie&#39;s Blog</description>
     <image>
-      <url>blogabuddie.github.io/papermod-cover.png</url>
-      <link>blogabuddie.github.io/papermod-cover.png</link>
+      <url>https://nix-code.github.io/blogabuddie.github.io/papermod-cover.png</url>
+      <link>https://nix-code.github.io/blogabuddie.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="blogabuddie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 18:52:01 +0530</lastBuildDate><atom:link href="https://nix-code.github.io/blogabuddie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>https://nix-code.github.io/blogabuddie.github.io/posts/post/</link>
+      <pubDate>Tue, 25 Oct 2022 18:52:01 +0530</pubDate>
+      
+      <guid>https://nix-code.github.io/blogabuddie.github.io/posts/post/</guid>
+      <description>This is good post</description>
+    </item>
+    
     <item>
       <title>C programming Roadmap</title>
-      <link>blogabuddie.github.io/posts/c_programming/</link>
+      <link>https://nix-code.github.io/blogabuddie.github.io/posts/c_programming/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>blogabuddie.github.io/posts/c_programming/</guid>
+      <guid>https://nix-code.github.io/blogabuddie.github.io/posts/c_programming/</guid>
       <description>A brief Introduction and roadmap about C programming</description>
     </item>
     
     <item>
       <title>Data Science Roadmap</title>
-      <link>blogabuddie.github.io/posts/data_science/</link>
+      <link>https://nix-code.github.io/blogabuddie.github.io/posts/data_science/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>blogabuddie.github.io/posts/data_science/</guid>
+      <guid>https://nix-code.github.io/blogabuddie.github.io/posts/data_science/</guid>
       <description>Contains everything you need to know about Data Science</description>
     </item>
     

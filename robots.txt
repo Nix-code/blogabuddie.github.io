@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: blogabuddie.github.io/sitemap.xml

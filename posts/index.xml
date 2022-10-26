@@ -9,7 +9,16 @@
       <link>https://nix-code.github.io/blogabuddie.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nix-code.github.io/blogabuddie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nix-code.github.io/blogabuddie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber security Roadmap</title>
+      <link>https://nix-code.github.io/blogabuddie.github.io/posts/cyber_sec/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nix-code.github.io/blogabuddie.github.io/posts/cyber_sec/</guid>
+      <description>A brief Introduction and roadmap about Cyber security</description>
+    </item>
+    
     <item>
       <title>C programming Roadmap</title>
       <link>https://nix-code.github.io/blogabuddie.github.io/posts/c_programming/</link>
